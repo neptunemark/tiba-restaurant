@@ -12,7 +12,7 @@ const person = {
 const contact ={
     contact_no: "+918891691663",
     whatsapp: "+919136622221",
-    location: "",
+    location: "https://maps.app.goo.gl/fbihSjVozLMsA2ys6",
     email: "tibahotelsbanglore@gmail.com",
 };
 
