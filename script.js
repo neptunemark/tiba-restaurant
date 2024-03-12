@@ -11,7 +11,7 @@ const person = {
 
 const contact ={
     contact_no: "+918891691663",
-    whatsapp: "+919136622221",
+    whatsapp: "+918891691663",
     location: "https://maps.app.goo.gl/fbihSjVozLMsA2ys6",
     email: "tibahotelsbanglore@gmail.com",
 };
@@ -30,12 +30,12 @@ const bannerImage={
 
 const links =[
     facebook={
-    visibil: false,
-    link:"https://www.facebook.com/WafaAlain/"
+    visibil: true,
+    link:"https://www.facebook.com/profile.php?id=61556412908936&amp;mibextid=LQQJ4d"
   },
     instagram={
-    visibil: false,
-    link:"https://www.instagram.com/drsyedhasnat/"
+    visibil: true,
+    link:"https://www.instagram.com/tiba.hotel?igsh=MTc5a2oyN2wzcXJ5Yg%3D%3D&amp;utm_source=qr"
   },
     skype={
     visibil: false,
@@ -62,7 +62,7 @@ const links =[
     link:"info@tibahotels.com"
   },
     google={
-    visibil: false,
+    visibil: true,
     link:"https://maps.app.goo.gl/uWdgB8YCtC2WtUuJ8"
   },
     telegram={
